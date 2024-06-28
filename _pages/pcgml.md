@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-In the free time, I enjoy studying game development, in particular I'm
+In the free time, I enjoy studying game development and I'm particularly
 intrigued by the use of AI techniques for the automated generation of
 content.
 
@@ -31,8 +31,3 @@ Super Mario Bros. levels and stable molecules. This work ended was
 accepted at a top-tier machine learning conference
 ([link](https://proceedings.neurips.cc/paper/2020/file/a87c11b9100c608b7f8e98cfa316ff7b-Paper.pdf
 'canpaper')).
-
-
-
-
-

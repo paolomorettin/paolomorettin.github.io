@@ -31,7 +31,7 @@ when deciding who should receive a loan.*
 
 My perspective is property/model-agnostic, trying to unify the
 problem under a single formalism. By identifying the factors that
-hider the verification I hope to develop more scalable analysis
+hinder the verification I hope to develop more scalable analysis
 techniques, as well as novel ML models that are more easily
 verifiable.
 
