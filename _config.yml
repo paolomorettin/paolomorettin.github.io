@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hi, I'm Paolo!"
   pronouns         : # example: "she/her"  
-  bio              : "Marie Skłodowska-Curie fellow
-
-Assistant professor (RTDa)"
+  bio              : "Marie Skłodowska-Curie fellow, \ assistant professor (RTDa)"
   location         : "Italy"
   employer         : "University of Trento"
   uri              : # URL

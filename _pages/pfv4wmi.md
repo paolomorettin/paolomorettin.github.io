@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+## Probabilistic formal verification of AI/ML systems
+
 
 ### Why?
 
@@ -22,8 +24,8 @@ to enforce them is in its infancy.
 I am focusing the problem of verifying a ML/AI system with respect to
 a probabilistic specification:
 
-- a property that should hold with high probability
-- a probabilistic notion of the environment where the system will be deployed
+- a property that should hold with high probability;
+- a probabilistic notion of the environment where the system will be deployed.
 
 *For instance, given a population model, we want to make sure that
 the ML model used by a bank is not discriminating any category
@@ -41,8 +43,8 @@ I am investigating the problem under the lenses of Weighted Model Integration (W
 
 This formalism enables the verification of many properties of interest, including:
 
-- fairness properties (demographic parity, equality of opportunity, ...)
-- distance-based properties (probabilistic robustness, individual fairness, ...)
+- fairness properties (demographic parity, equality of opportunity, ...);
+- distance-based properties (probabilistic robustness, individual fairness, ...);
 - other algebraic properties (compliance to physical or safety rules, ...)
 
 over a wide range of ML models, such as: NNs, PGMs, tree-based models, ...
@@ -55,7 +57,7 @@ I am one of the developers of [SAE4WMI](https://github.com/unitn-sml/wmi-pa "wmi
 You can find a preprint of the position paper describing our approach
 on [arXiv](https://arxiv.org/abs/2402.04892 "position paper").
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 
 *[Funded by the European Union](https://cordis.europa.eu/project/id/101110960 "Cordis"). Views and opinions expressed

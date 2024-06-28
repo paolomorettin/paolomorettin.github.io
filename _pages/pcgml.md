@@ -9,6 +9,9 @@ redirect_from:
 {% include base_path %}
 
 
+## Procedural content generation via ML
+
+
 In the free time, I enjoy studying game development and I'm particularly
 intrigued by the use of AI techniques for the automated generation of
 content.
