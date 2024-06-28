@@ -26,7 +26,7 @@ in unusable content.*
 
 As a joint research effort with multiple thesis students, we developed
 Constrained Adversarial Networks
-([link](https://proceedings.neurips.cc/paper/2020/file/a87c11b9100c608b7f8e98cfa316ff7b-Paper.pdf
-'canpaper'))., a neuro-symbolic deep generative model that was used,
+([[paper](https://proceedings.neurips.cc/paper/2020/file/a87c11b9100c608b7f8e98cfa316ff7b-Paper.pdf
+'canpaper')), a neuro-symbolic deep generative model that was used,
 among other things, for the generation of playable Super Mario
 Bros. levels and stable molecules.
