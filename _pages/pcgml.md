@@ -23,13 +23,14 @@ satisfy very complex constraints.
 
 ![A SMB level!](/images/pcgml.jpg "SMB")
 
-*For instance, a 2D platformer level must be playable from start to
-finish.  Unsurpassable obstacles like huge gaps or walls might result
-in unusable content.*
+*For instance, unsurpassable obstacles like huge gaps or walls can
+make a platformer level impossible to complete. Contrarily to the
+generation of images, a single bit change could turn a playable level
+into an unplayable one.*
 
 As a joint research effort with multiple thesis students, we developed
 Constrained Adversarial Networks
-([[paper](https://proceedings.neurips.cc/paper/2020/file/a87c11b9100c608b7f8e98cfa316ff7b-Paper.pdf
+([paper](https://proceedings.neurips.cc/paper/2020/file/a87c11b9100c608b7f8e98cfa316ff7b-Paper.pdf
 'canpaper')), a neuro-symbolic deep generative model that was used,
 among other things, for the generation of playable Super Mario
 Bros. levels and stable molecules.
