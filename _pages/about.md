@@ -26,7 +26,7 @@ More info [here](/pcgml "pcgml").
 
 ### Teaching
 
-I am teaching assistant for the course Foundamentals of AI.
+I am teaching assistant for the course Fundamentals of AI.
 You can find the material [here](https://drive.google.com/drive/u/1/folders/1IG6U-RgQOhJwt3YoNFHh0Cmqyv1MvvrI "(there)").
 
 I am offering a number of MSc thesis projects on the topics above. Contact me if interested!
